@@ -3,6 +3,7 @@
 	"author": "Joshua Nel",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "learning" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
